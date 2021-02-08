@@ -1,4 +1,3 @@
-## What is this PR? :mag:
 ## 문제 주소 :memo:
 - 
 
@@ -8,5 +7,4 @@
 ## Changes :memo:
 
 
-## Screenshot :camera:
 ## 정답화면 :camera:
