@@ -4,7 +4,5 @@
 ## 풀이방법 :mag:
 - 
 
-## Changes :memo:
-
 
 ## 정답화면 :camera:
