@@ -21,7 +21,7 @@
 [p/72410/python]: /programmers/72410/python
 
 ## Contributors
-[gon125][con/1] | [yellow][con/2] | 
+[gon125][con/1] | [yeollow][con/2] | 
 
 [comment]: <> (예시: con/본인 원하는 번호: 깃허브 링크)
 [con/1]: https://github.com/gon125
