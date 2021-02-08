@@ -1,21 +1,23 @@
 # Algorithm Everyday
 
 ## 참여방법
-1. Fork를 합니다.
-2. Contributor 목록에 본인을 추가한 후 Pull Request를 합니다. (추가하는 순서대로 번호 부여 README.md 파일 안에 con/번호 형태로 저장됨)
-3. 해당 번호로 README.md 파일 안에서 링크 부여하시면 됩니다.
+1. Fork를 합니다. 🍴
+2. Contributor 목록에 본인을 추가한 후 Pull Request를 합니다. (추가하는 순서대로 번호 부여 README.md 파일 안에 con/번호 형태로 저장)
+3. 사이트이름/문제번호/언어/Github아이디.확장자 형태로 소스코드를 추가하고 Pull Request 하시면 됩니다. 🐥
 
 ## Programmers
 ### 2021 Kakao Blind Rcruitment
-| 문제 | 번호 | Swift | Java | C/C++ | Phython |
+| 문제 | 번호 | Swift | Java | C/C++ | Python |
 | --- | --- | ----- | ---- | ----- | ------- |
-| 신규 아이디 추천 | [72410][p/72410] | [gon125][p/72410/1] | [yellow][p/72410/2] <br> [예시][p/72410/] | - |
+| 신규 아이디 추천 | [72410][p/72410] | [Swift][p/72410/swift] | [Java][p/72410/java] | [C/C++][p/72410/cpp] | [Python][p/72410/python] |
 
 [comment]: <> (p/72410 | 신규 아이디 추천)
 [p/72410]: https://programmers.co.kr/learn/courses/30/lessons/72410
-[comment]: <> (예시: [사이트ID/문제번호/본인번호]: /사이트이름/문제번호/본인아이디.file-extension)
-[p/72410/1]: /programmers/72410/gon125.swift
-[p/72410/2]: /programmers/72410/yellow.java
+[comment]: <> (예시: [사이트ID/문제번호/언어]: /사이트이름/문제번호/언어)
+[p/72410/swift]: /programmers/72410/swift
+[p/72410/java]: /programmers/72410/java
+[p/72410/cpp]: /programmers/72410/cpp
+[p/72410/python]: /programmers/72410/python
 
 ## Contributors
 [gon125][con/1] | [yellow][con/2] | 
