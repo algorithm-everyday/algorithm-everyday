@@ -25,4 +25,4 @@
 
 [comment]: <> (예시: con/본인 원하는 번호: 깃허브 링크)
 [con/1]: https://github.com/gon125
-[con/2]: https://github.com/yellow
+[con/2]: https://github.com/yeollow
