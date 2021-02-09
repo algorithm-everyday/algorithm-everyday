@@ -4,7 +4,7 @@
 1. Fork를 합니다. 🍴
 2. Contributor 목록에 본인을 추가한 후 Pull Request를 합니다. <br> (추가하는 순서대로 번호 부여 README.md 파일 안에 con/번호 형태로 저장)
 3. 문제 별로 이슈가 열려있습니다. Pull Request 하실 때 연결! 👻
-3. 사이트이름/문제번호/언어/Github아이디.확장자 경로로 소스코드를 추가하고 Pull Request 하시면 됩니다. 🐥 <br> 햇갈리시면 기존 디렉토리를 참조해주세요 👍
+3. 사이트이름/문제번호/언어/Github아이디.확장자 경로로 소스코드를 추가하고 Pull Request 하시면 됩니다. 🐥 <br> 설명이 부족하다면 기존 디렉토리를 참조해주세요 👍
 
 ## Programmers
 ### 2021 Kakao Blind Rcruitment
