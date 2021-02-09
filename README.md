@@ -11,6 +11,14 @@
 | 문제 | 번호 | Swift | Java | C/C++ | Python |
 | --- | --- | ----- | ---- | ----- | ------- |
 | 신규 아이디 추천 | [72410][p/72410] | [Swift][p/72410/swift] | [Java][p/72410/java] | [C/C++][p/72410/cpp] | [Python][p/72410/python] |
+| 메뉴 리뉴얼 | [72411][p/72411] | [Swift][p/72411/swift] | [Java][p/72411/java] | [C/C++][p/72411/cpp] | [Python][p/72411/python] |
+
+[comment]: <> (p/72411 | 메뉴 리뉴얼)
+[p/72411]: https://programmers.co.kr/learn/courses/30/lessons/72411
+[p/72411/swift]: /programmers/72411/swift
+[p/72411/java]: /programmers/72411/java
+[p/72411/cpp]: /programmers/72411/cpp
+[p/72411/python]: /programmers/72411/python
 
 [comment]: <> (p/72410 | 신규 아이디 추천)
 [p/72410]: https://programmers.co.kr/learn/courses/30/lessons/72410
