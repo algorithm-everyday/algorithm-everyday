@@ -28,6 +28,19 @@
 [p/72410/cpp]: /programmers/72410/cpp
 [p/72410/python]: /programmers/72410/python
 
+### Practice Problems
+| 문제 | 번호 | Swift | Java | C/C++ | Python |
+| --- | --- | ----- | ---- | ----- | ------- |
+| 가장 큰 정사각형 찾기 | [12905][p/12905] | [Swift][p/12905/swift] | [Java][p/12905/java] | [C/C++][p/12905/cpp] | [Python][p/12905/python] |
+
+[comment]: <> (p/12905 | 가장 큰 정사각형 찾기)
+[p/12905]: https://programmers.co.kr/learn/courses/30/lessons/12905
+[p/12905/swift]: /programmers/12905/swift
+[p/12905/java]: /programmers/12905/java
+[p/12905/cpp]: /programmers/12905/cpp
+[p/12905/python]: /programmers/12905/python
+
+
 ## Contributors
 [gon125][con/1] | [yeollow][con/2] | 
 
