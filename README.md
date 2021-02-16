@@ -8,43 +8,35 @@
 
 ## [Programmers](https://programmers.co.kr)
 ### 2021 Kakao Blind Rcruitment
-| 문제 | 번호 | Swift | Java | C/C++ | Python |
-| --- | --- | ----- | ---- | ----- | ------- |
-| 신규 아이디 추천 | [72410][p/72410] | [Swift][p/72410/swift] | [Java][p/72410/java] | [C/C++][p/72410/cpp] | [Python][p/72410/python] |
-| 메뉴 리뉴얼 | [72411][p/72411] | [Swift][p/72411/swift] | [Java][p/72411/java] | [C/C++][p/72411/cpp] | [Python][p/72411/python] |
+| 문제 | 번호 | 풀이 | 문제 유형 |
+| --- | --- | --- | ----- |
+| 신규 아이디 추천 | [72410][p/72410] | [풀이][p/72410/solution] | 단순 문자열 처리, regex |
+| 메뉴 리뉴얼 | [72411][p/72411] | [풀이][p/72411/solution] | - |
+| 합승 택시 요금 | [72413][p/72413] | [풀이][p/72413/solution] | - |
 
-[comment]: <> (p/72411 | 메뉴 리뉴얼)
+[p/72413]: https://programmers.co.kr/learn/courses/30/lessons/72413
+[p/72413/solution]: /programmers/72413
+
 [p/72411]: https://programmers.co.kr/learn/courses/30/lessons/72411
-[p/72411/swift]: /programmers/72411/swift
-[p/72411/java]: /programmers/72411/java
-[p/72411/cpp]: /programmers/72411/cpp
-[p/72411/python]: /programmers/72411/python
+[p/72411/solution]: /programmers/72411
 
-[comment]: <> (p/72410 | 신규 아이디 추천)
 [p/72410]: https://programmers.co.kr/learn/courses/30/lessons/72410
-[comment]: <> (예시: [사이트ID/문제번호/언어]: /사이트이름/문제번호/언어)
-[p/72410/swift]: /programmers/72410/swift
-[p/72410/java]: /programmers/72410/java
-[p/72410/cpp]: /programmers/72410/cpp
-[p/72410/python]: /programmers/72410/python
+[p/72410/solution]: /programmers/72410
 
 ### Practice Problems
-| 문제 | 번호 | Swift | Java | C/C++ | Python |
-| --- | --- | ----- | ---- | ----- | ------- |
-| 가장 큰 정사각형 찾기 | [12905][p/12905] | [Swift][p/12905/swift] | [Java][p/12905/java] | [C/C++][p/12905/cpp] | [Python][p/12905/python] |
+| 문제 | 번호 |  풀이  | 문제 유형 |
+| --- | --- | ----- | ----- |
+| 가장 큰 정사각형 찾기 | [12905][p/12905] | [풀이][p/12905/solution] | - |
 
-[comment]: <> (p/12905 | 가장 큰 정사각형 찾기)
 [p/12905]: https://programmers.co.kr/learn/courses/30/lessons/12905
-[p/12905/swift]: /programmers/12905/swift
-[p/12905/java]: /programmers/12905/java
-[p/12905/cpp]: /programmers/12905/cpp
-[p/12905/python]: /programmers/12905/python
-
+[p/12905/solution]: /programmers/12905
 
 ## Contributors
-[gon125][con/1] | [yeollow][con/2] | [krwns97][con/3]
+[gon125][con/1] | [yeollow][con/2] | [krwns97][con/3] | [ohaeori][con/4] | [LeeHanSeong7][con/5]
 
 [comment]: <> (예시: con/본인 원하는 번호: 깃허브 링크)
 [con/1]: https://github.com/gon125
 [con/2]: https://github.com/yeollow
 [con/3]: https://github.com/krwns97
+[con/4]: https://github.com/ohaeori
+[con/5]: https://github.com/LeeHanSeong7
