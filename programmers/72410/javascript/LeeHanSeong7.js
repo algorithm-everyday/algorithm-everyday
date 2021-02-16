@@ -19,7 +19,8 @@ function solution(new_id) {
                 return arg
         },
          (arg) => { // 6
-            return arg.substring(0,15);
+            return arg.substring(0,15).replace(/^[.]|[.]$/g,'');
+
         },
          (arg) => { // 7
             while(arg.length < 3){
@@ -31,16 +32,9 @@ function solution(new_id) {
     
     let answer = new_id;
     
-    while(true){
-        var start = answer;
-        
-        functionset.forEach((func) => {
-            answer = func(answer);
-        });
-        
-        if (start == answer)
-            break;
-    }
+    functionset.forEach((func) => {
+        answer = func(answer);
+    });
     
     return answer;
 }
