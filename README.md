@@ -12,9 +12,23 @@
 | --- | --- | --- | ----- |
 | 위장 | [42578][p/42578] | [🧑🏻‍💻][p/42578/solution] | 해시 |
 | 베스트앨범 | [42579][p/42579] | [🧑🏻‍💻][p/42579/solution] | 해시 |
+| 다리를 지나는 트럭 | [42583][p/42583] | [🧑🏻‍💻][p/42583/solution] | 큐 |
+| 기능개발 | [42586][p/42586] | [🧑🏻‍💻][p/42586/solution] | - |
+| 프린터 | [42587][p/42587] | [🧑🏻‍💻][p/42587/solution] | - |
+
+
+[p/42587]: https://programmers.co.kr/learn/courses/30/lessons/42587
+[p/42587/solution]: /programmers/42587
+
+[p/42586]: https://programmers.co.kr/learn/courses/30/lessons/42586
+[p/42586/solution]: /programmers/42586
+
+[p/42583]: https://programmers.co.kr/learn/courses/30/lessons/42583
+[p/42583/solution]: /programmers/42583
 
 [p/42578]: https://programmers.co.kr/learn/courses/30/lessons/42578
 [p/42578/solution]: /programmers/42578
+
 [p/42579]: https://programmers.co.kr/learn/courses/30/lessons/42579
 [p/42579/solution]: /programmers/42579
 
