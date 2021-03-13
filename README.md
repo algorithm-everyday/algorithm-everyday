@@ -15,7 +15,14 @@
 | 다리를 지나는 트럭 | [42583][p/42583] | [🧑🏻‍💻][p/42583/solution] | 큐 |
 | 기능개발 | [42586][p/42586] | [🧑🏻‍💻][p/42586/solution] | 큐 |
 | 프린터 | [42587][p/42587] | [🧑🏻‍💻][p/42587/solution] | 우선순위 큐 |
+| 디스크 컨트롤러 | [42627][p/42627] | [🧑🏻‍💻][p/42627/solution] | - |
+| 이중우선순위큐 | [42628][p/42628] | [🧑🏻‍💻][p/42628/solution] | 우선순위 큐 |
 
+[p/42628]: https://programmers.co.kr/learn/courses/30/lessons/42628
+[p/42628/solution]: /programmers/42628
+
+[p/42627]: https://programmers.co.kr/learn/courses/30/lessons/42627
+[p/42627/solution]: /programmers/42627
 
 [p/42587]: https://programmers.co.kr/learn/courses/30/lessons/42587
 [p/42587/solution]: /programmers/42587
