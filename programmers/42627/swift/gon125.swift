@@ -19,7 +19,7 @@ func solution(_ jobs:[[Int]]) -> Int {
             currentTime += shortestJob[1]
             sum += currentTime - shortestJob[0]
         } else {
-            currentTime += 1
+            currentTime = jobs[i][0]
         }
     }
     
@@ -102,3 +102,4 @@ fileprivate extension Int {
     var isRoot: Bool { self == 0 }
     var parentIndex: Int { (self - 1) / 2 }
 }
+
