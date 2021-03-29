@@ -25,6 +25,16 @@
 | K번째수 | [42748][p/42748] | [🧑🏻‍💻][p/42748/solution] | 정렬 |
 | 가장 큰 수 | [42746][p/42746] | [🧑🏻‍💻][p/42746/solution] | 정렬 |
 | H-Index | [42747][p/42747] | [🧑🏻‍💻][p/42747/solution] | 정렬 |
+| 모의고사 | [42840][p/42840] | [🧑🏻‍💻][p/42840/solution] | 완전탐색 |
+| 소수 찾기 | [42839][p/42839] | [🧑🏻‍💻][p/42839/solution] | 완전탐색 |
+| 카펫 | [42842][p/42842] | [🧑🏻‍💻][p/42842/solution] | 완전탐색 |
+
+[p/42840]: https://programmers.co.kr/learn/courses/30/lessons/42840
+[p/42840/solution]: /programmers/42840
+[p/42839]: https://programmers.co.kr/learn/courses/30/lessons/42839
+[p/42839/solution]: /programmers/42839
+[p/42842]: https://programmers.co.kr/learn/courses/30/lessons/42842
+[p/42842/solution]: /programmers/42842
 
 [p/42748]: https://programmers.co.kr/learn/courses/30/lessons/42748
 [p/42748/solution]: /programmers/42748
