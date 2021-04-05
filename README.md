@@ -28,6 +28,19 @@
 | 모의고사 | [42840][p/42840] | [🧑🏻‍💻][p/42840/solution] | 완전탐색 |
 | 소수 찾기 | [42839][p/42839] | [🧑🏻‍💻][p/42839/solution] | 완전탐색 |
 | 카펫 | [42842][p/42842] | [🧑🏻‍💻][p/42842/solution] | 완전탐색 |
+| 체육복 | [42862][p/42862] | [🧑🏻‍💻][p/42862/solution] | 탐욕법 |
+| 조이스틱 | [42860][p/42860] | [🧑🏻‍💻][p/42860/solution] | 탐욕법 |
+| 큰 수 만들기 | [42883][p/42883] | [🧑🏻‍💻][p/42883/solution] | 탐욕법 |
+| 섬 연결하기 | [42861][p/42861] | [🧑🏻‍💻][p/42861/solution] | 탐욕법 |
+
+[p/42862]: https://programmers.co.kr/learn/courses/30/lessons/42862
+[p/42862/solution]: /programmers/42862
+[p/42860]: https://programmers.co.kr/learn/courses/30/lessons/42860
+[p/42860/solution]: /programmers/42860
+[p/42883]: https://programmers.co.kr/learn/courses/30/lessons/42883
+[p/42883/solution]: /programmers/42883
+[p/42861]: https://programmers.co.kr/learn/courses/30/lessons/42861
+[p/42861/solution]: /programmers/42861
 
 [p/42840]: https://programmers.co.kr/learn/courses/30/lessons/42840
 [p/42840/solution]: /programmers/42840
