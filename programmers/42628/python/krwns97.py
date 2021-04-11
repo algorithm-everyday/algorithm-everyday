@@ -24,8 +24,8 @@ def solution(operations):
             else:
                 h.heappop(max_heap)
                 del min_heap[len_heap]
-     
+
     if min_heap==[] or max_heap==[]:
         return [0,0]
-   
+
     return [-h.heappop(max_heap),h.heappop(min_heap)]
