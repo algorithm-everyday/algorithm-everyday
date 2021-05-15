@@ -32,6 +32,19 @@
 | 조이스틱 | [42860][p/42860] | [🧑🏻‍💻][p/42860/solution] | 탐욕법 |
 | 큰 수 만들기 | [42883][p/42883] | [🧑🏻‍💻][p/42883/solution] | 탐욕법 |
 | 섬 연결하기 | [42861][p/42861] | [🧑🏻‍💻][p/42861/solution] | 탐욕법 |
+| 타겟 넘버 | [43165][p/43165] | [🧑🏻‍💻][p/43165/solution] | 탐욕법 |
+| 네트워크 | [43162][p/43162] | [🧑🏻‍💻][p/43162/solution] | 탐욕법 |
+| 단어 변환 | [43163][p/43163] | [🧑🏻‍💻][p/43163/solution] | 탐욕법 |
+| 여행 경로 | [43164][p/43164] | [🧑🏻‍💻][p/43164/solution] | 탐욕법 |
+
+[p/43165]: https://programmers.co.kr/learn/courses/30/lessons/43165
+[p/43165/solution]: /programmers/43165
+[p/43162]: https://programmers.co.kr/learn/courses/30/lessons/43162
+[p/43162/solution]: /programmers/43162
+[p/43163]: https://programmers.co.kr/learn/courses/30/lessons/43163
+[p/43163/solution]: /programmers/43163
+[p/43164]: https://programmers.co.kr/learn/courses/30/lessons/43164
+[p/43164/solution]: /programmers/43164
 
 [p/42862]: https://programmers.co.kr/learn/courses/30/lessons/42862
 [p/42862/solution]: /programmers/42862
