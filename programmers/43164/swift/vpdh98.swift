@@ -126,7 +126,7 @@ class KoreaAir{
         }
 		
         var temp = searchTickets.first!
-        if !temp.closeWay || allClose(searchTickets){ //´İÈ÷Áö ¾ÊÀº ±æ ¿ì¼±À¸·Î Å½»ö,¸ğµÎ ´İÇôÀÖ´Ù¸é ¾ËÆÄºª ¿ì¼±¼øÀ§·Î Å½»ö
+        if !temp.closeWay || allClose(searchTickets){ //ë‹«íˆì§€ ì•Šì€ ê¸¸ ìš°ì„ ìœ¼ë¡œ íƒìƒ‰,ëª¨ë‘ ë‹«í˜€ìˆë‹¤ë©´ ì•ŒíŒŒë²³ ìš°ì„ ìˆœìœ„ë¡œ íƒìƒ‰
             findWay(&searchTickets)
         }else{
             temp = findNotCloseWay(&searchTickets)
@@ -137,27 +137,27 @@ class KoreaAir{
 	func recallTicket(_ ct:Ticket)->Ticket{
 		var currentTicket = ct
 		var popTickets:[Ticket] = [Ticket]()
-		while currentTicket.go == "ERR"{      //ÇöÀç ¿Ó´ø ±æÀÌ ¾Æ´Ñ ÀÌÀü ±æÀ» Ã£À½
+		while currentTicket.go == "ERR"{      //í˜„ì¬ ì™“ë˜ ê¸¸ì´ ì•„ë‹Œ ì´ì „ ê¸¸ì„ ì°¾ìŒ
 			currentTicket = ticketStack.pop()
-			currentTicket.closeWay = true		//±æ ´İÀ½
+			currentTicket.closeWay = true		//ê¸¸ ë‹«ìŒ
 			popTickets.append(currentTicket)	
 			currentTicket = search(currentTicket.go)
 		}
-		for t in popTickets{				//´İÀº ±æµéÀ» ´Ù½Ã tickets¿¡ Ãß°¡
+		for t in popTickets{				//ë‹«ì€ ê¸¸ë“¤ì„ ë‹¤ì‹œ ticketsì— ì¶”ê°€
 			tickets.append(t)
 		}
 		return currentTicket
 	}
 	
     func gogogo()->[String]{
-        var currentTicket = search(startAirport) //½ÃÀÛ ÁöÁ¡
+        var currentTicket = search(startAirport) //ì‹œì‘ ì§€ì 
 		var popTickets:[Ticket] = [Ticket]()
         ticketStack.push(currentTicket)
 		
-        while tickets.count != 0{ //Æ¼ÄÏÀ» ¸ğµÎ »ç¿ëÇÒ ¶§±îÁö
+        while tickets.count != 0{ //í‹°ì¼“ì„ ëª¨ë‘ ì‚¬ìš©í•  ë•Œê¹Œì§€
             currentTicket = search(currentTicket.to)
-            if currentTicket.go == "ERR"{ //¸·´Ù¸¥ ±æÀÏ¶§
-				currentTicket = recallTicket(currentTicket) //±× ±æÀ» °¡´Âµ¥ ›§´ø Æ¼ÄÏÀ» ´Ù½Ã ¸®ÄİÇÏ°í °¥·¡±æ¿¡¼­ °¡Áö ¾ÊÀº ´Ù¸¥ ±æ ¹İÈ¯
+            if currentTicket.go == "ERR"{ //ë§‰ë‹¤ë¥¸ ê¸¸ì¼ë•Œ
+				currentTicket = recallTicket(currentTicket) //ê·¸ ê¸¸ì„ ê°€ëŠ”ë° Â›ã¢ í‹°ì¼“ì„ ë‹¤ì‹œ ë¦¬ì½œí•˜ê³  ê°ˆë˜ê¸¸ì—ì„œ ê°€ì§€ ì•Šì€ ë‹¤ë¥¸ ê¸¸ ë°˜í™˜
                 ticketStack.push(currentTicket)
             }
             else{
