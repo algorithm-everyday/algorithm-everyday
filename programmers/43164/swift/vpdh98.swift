@@ -47,6 +47,11 @@ class Stack<T>:CustomStringConvertible{
 	
 	
 }
+extension Array where Element == Array<String>{
+        var toTickets:[Ticket]{
+            self.map {Ticket($0.first!,$0.last!)}
+        }
+    }
 
 class KoreaAir{
     let startAirport:String = "ICN"
@@ -54,11 +59,14 @@ class KoreaAir{
     var ticketStack:Stack<Ticket> = Stack<Ticket>()
     var tickets:[Ticket] = [Ticket]()
     
-    func toTickets(_ tics:[[String]]){
-        for strings in tics{
-            tickets.append(Ticket(strings.first!,strings.last!))
-        }
+    
+    
+    
+    init(_ tickets:[[String]]){
+        self.tickets = tickets.toTickets
     }
+    
+    
     
     func allClose(_ ways:[Ticket])->Bool{
         for w in ways{
@@ -169,7 +177,6 @@ class KoreaAir{
 }
 
 func solution(_ tickets:[[String]]) -> [String] {
-    var koreaAir:KoreaAir = KoreaAir()
-    koreaAir.toTickets(tickets)
+    var koreaAir:KoreaAir = KoreaAir(tickets)
     return koreaAir.gogogo()
 }
