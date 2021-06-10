@@ -10,7 +10,7 @@
 2. Git-Hooks 적용을 위해 scripts/project-setup.sh를 실행시켜주세요! 🏃‍♀️🏃‍♂️🏃 (Linux, Unix 환경만 지원합니다 ㅠㅡㅜ)
 3. Contributor 목록에 본인을 추가한 후 Pull Request를 합니다. <br> (추가하는 순서대로 번호 부여 README.md 파일 안에 con/번호 형태로 저장)
 4. 문제 별로 이슈가 열려있습니다. Pull Request 하실 때 연결! 👻
-5. 사이트이름/이슈번호/언어/Github아이디.확장자 경로로 소스코드를 추가하고 PR 하시면 됩니다. 🐥 <br> ex) programmers/이슈번호/swift/gon125.swift <br>설명이 부족하다면 기존 디렉토리를 참조해주세요 👍 `문제번호 -> 이슈번호로 규칙이 바뀌었습니다. `
+5. 사이트이름/이슈번호/언어/Github아이디.확장자 경로로 소스코드를 추가하고 PR 하시면 됩니다. 🐥 <br> ex) programmers/이슈번호/swift/gon125.swift <br>설명이 부족하다면 기존 디렉토리를 참조해주세요 👍 `문제번호 -> 이슈번호로 규칙이 바뀌었습니다. 추후에 번호가 겹친다면 이전 소스를 이슈번호로 전환하도록 하겠습니다.`
 
 ## [Programmers](https://programmers.co.kr) 😎
 ### 코딩테스트 고득점 Kit 📚 
