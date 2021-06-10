@@ -37,6 +37,10 @@
 | 네트워크 | [43162][p/43162] | [🧑🏻‍💻][p/43162/solution] | Union & Find |
 | 단어 변환 | [43163][p/43163] | [🧑🏻‍💻][p/43163/solution] | DFS, BFS |
 | 여행 경로 | [43164][p/43164] | [🧑🏻‍💻][p/43164/solution] | DFS |
+| 괄호 회전하기 | [145][p/145] | [🧑🏻‍💻][p/145/solution] | DFS |
+
+[p/145]: https://programmers.co.kr/learn/courses/30/lessons/76502
+[p/145/solution]: /programmers/145
 
 [p/43165]: https://programmers.co.kr/learn/courses/30/lessons/43165
 [p/43165/solution]: /programmers/43165
