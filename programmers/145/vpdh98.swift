@@ -8,7 +8,7 @@ func gumsa(_ guharos:[Character])->Bool{
             gStack.append(guharo)
         } 
         else{
-			if gStack.count == 0 { return false }
+	    if gStack.count == 0 { return false }
             var temp = gStack[gStack.count-1]
             gStack.remove(at:gStack.count-1)
             if(temp == "{"&&guharo != "}"){
@@ -36,9 +36,9 @@ func guharo(_ guharos:[Character])->Int{
     for i in guharos{
 		
     	let find = gumsa(guharos)
-		if find{
-			answer+=1
-		}
+	if find{
+		answer+=1
+	}
     	guharos.append(guharos[0])
     	guharos.remove(at:0)
     }
