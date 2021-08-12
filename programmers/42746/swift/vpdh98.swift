@@ -1,17 +1,5 @@
 import Foundation
 
-extension Int {
-    var digit:Int {
-        var temp:Int = self
-        var count:Int = 0
-        while temp != 0{
-            temp /= 10
-            count+=1
-        }
-        return count
-    }
-}
-
 extension Array where Element == Int{
     var string:String{
         var temp:String = ""
